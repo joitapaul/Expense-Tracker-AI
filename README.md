@@ -11,14 +11,6 @@ This project demonstrates practical implementation of data analytics, machine le
 
 # 🚀 Features
 
-• Add and manage daily expenses
-• Automatic category-based expense organization
-• Monthly spending insights generation
-• Budget alert system for overspending detection
-• Next-month expense prediction using machine learning
-• Interactive Streamlit dashboard interface
-• Local SQLite database storage
-• Lightweight and fast execution
 
 ---
 
