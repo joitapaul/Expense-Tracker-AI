@@ -4,7 +4,7 @@ Expense Tracker AI is an intelligent Python-based personal finance tracking appl
 
 The system is built using Streamlit for an interactive dashboard interface, SQLite for lightweight data storage, and Scikit-learn for predictive analytics.
 
-This project demonstrates practical implementation of data analytics, machine learning prediction, and dashboard-based visualization in a real-world financial tracking scenario.
+
 
 ---
 
