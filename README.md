@@ -23,8 +23,7 @@ This project demonstrates practical implementation of data analytics, machine le
 ---
 
 # 🧠 AI Capabilities
-
-
+The application includes intelligent analytics features such as:
 
 • Expense trend analysis
 • Category-wise spending pattern recognition
