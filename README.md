@@ -1,4 +1,3 @@
-# 💰 Expense Tracker AI
 
 Expense Tracker AI is an intelligent Python-based personal finance tracking application that helps users record expenses, analyze spending habits, generate category-wise insights, detect overspending through alerts, and predict next month’s expenses using machine learning techniques.
 
